@@ -41,7 +41,13 @@ That completes data-setup!
 </br>
 - Save the model files under: ROOT/final_models
 </br>
-- Finally run: test.py </br>
+- Finally run: test.py
+
+Here if you want to use predict function, then store the image in the correct directory and change the Img name in network.py
+
+Make sure the paths are right.
+
+It has been tested in the Windows environment. Paths change in LINUX. Make the changes accordingly.</br>
 </br>
 
 # Train
